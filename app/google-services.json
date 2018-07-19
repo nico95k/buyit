@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "986480257343",
+    "firebase_url": "https://buyit-92397.firebaseio.com",
+    "project_id": "buyit-92397",
+    "storage_bucket": "buyit-92397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986480257343:android:84343b2553a9b88c",
+        "android_client_info": {
+          "package_name": "kando.es.buyit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986480257343-6g516146vf2p6sv68qqsv5h7d0aa3hdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kando.es.buyit",
+            "certificate_hash": "5a2c6cafb58829c96f0ef0981fb77c0554c2f670"
+          }
+        },
+        {
+          "client_id": "986480257343-71o38t7jndjcbiar3h9st0jq3h7kvac5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWvtQP0-Li8NuFhs5bEU2oa96kshrwoGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986480257343-71o38t7jndjcbiar3h9st0jq3h7kvac5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
